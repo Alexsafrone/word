@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0af5867-5dd8-4675-b0c3-e509478bd84c" name="Default" comment="" />
+    <ignored path="test1.ru.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test1.ru" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="confirm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/guest/confirm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recover.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/guest/recover.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guestQuery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/guest/guestQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="84" column="36" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="36" />
+              <folding>
+                <marker date="1489649854744" expanded="true" signature="170:235" ph="SELECT `id` users" />
+                <marker date="1489649854744" expanded="true" signature="730:820" ph="SELECT `id` users" />
+                <marker date="1489649854744" expanded="true" signature="1182:1303" ph="INSERT INTO `users`... " />
+                <marker date="1489649854744" expanded="true" signature="1339:1504" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_groups" />
+                <marker date="1489649854744" expanded="true" signature="1594:1764" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_disciplines" />
+                <marker date="1489649854744" expanded="true" signature="1854:2066" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupils" />
+                <marker date="1489649854744" expanded="true" signature="2155:2406" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupil_info" />
+                <marker date="1489649854744" expanded="true" signature="2504:2697" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_materials" />
+                <marker date="1489649854744" expanded="true" signature="2959:3321" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_events" />
+                <marker date="1489649854744" expanded="true" signature="3405:3727" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_marks" />
+                <marker date="1489649854744" expanded="true" signature="4094:4209" ph="UPDATE `user... " />
+                <marker date="1489649854744" expanded="true" signature="4582:4646" ph="SELECT `id` users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/guest/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="37" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-confirm.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resource/confirm_alert/jquery-confirm.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13668">
+              <caret line="804" column="17" selection-start-line="804" selection-start-column="17" selection-end-line="804" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="click_script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="871" column="50" selection-start-line="871" selection-start-column="50" selection-end-line="871" selection-end-column="50" />
+              <folding>
+                <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+                <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pupils.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resource/css/pupils.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3077">
+              <caret line="181" column="38" selection-start-line="181" selection-start-column="38" selection-end-line="181" selection-end-column="56" />
+              <folding>
+                <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userQuery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="271" column="243" selection-start-line="271" selection-start-column="243" selection-end-line="271" selection-end-column="243" />
+              <folding>
+                <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+                <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+                <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+                <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+                <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+                <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+                <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+                <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/resource/css/pupils.css" />
+        <option value="$PROJECT_DIR$/www/resource/confirm_alert/jquery-confirm.min.js" />
+        <option value="$PROJECT_DIR$/www/pages/user/disciplines.php" />
+        <option value="$PROJECT_DIR$/www/pages/user/pupils.php" />
+        <option value="$PROJECT_DIR$/www/pages/user/reports.php" />
+        <option value="$PROJECT_DIR$/www/pages/user/settings.php" />
+        <option value="$PROJECT_DIR$/www/pages/guest/login.php" />
+        <option value="$PROJECT_DIR$/www/resource/confirm_alert/jquery-confirm.min.css" />
+        <option value="$PROJECT_DIR$/www/pages/guest/recover.php" />
+        <option value="$PROJECT_DIR$/www/pages/guest/confirm.php" />
+        <option value="$PROJECT_DIR$/www/pages/guest/guestQuery.php" />
+        <option value="$PROJECT_DIR$/www/pages/user/events.php" />
+        <option value="$PROJECT_DIR$/www/pages/user/userQuery.php" />
+        <option value="$PROJECT_DIR$/www/resource/js/click_script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probably bugPHP</id>
+          </State>
+          <State>
+            <id>SASS/SCSS</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webservers\home\test1.ru\www\pages\guest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webservers\home\test1.ru\www\resource" />
+      <recent name="E:\webservers\home\test1.ru\www" />
+      <recent name="E:\webservers\home\test1.ru\www\pupils_photos" />
+      <recent name="E:\webservers\home\test1.ru\www\pages\user" />
+      <recent name="E:\webservers\home\test1.ru\www\pages\everebody" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration useDefault="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0af5867-5dd8-4675-b0c3-e509478bd84c" name="Default" comment="" />
+      <created>1483453302468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483453302468</updated>
+      <workItem from="1483453304023" duration="4372000" />
+      <workItem from="1483459910993" duration="1418000" />
+      <workItem from="1484475808450" duration="1956000" />
+      <workItem from="1484478840842" duration="214000" />
+      <workItem from="1484479177214" duration="6973000" />
+      <workItem from="1484486541940" duration="1848000" />
+      <workItem from="1484489185637" duration="614000" />
+      <workItem from="1484490229388" duration="6558000" />
+      <workItem from="1484499292832" duration="6379000" />
+      <workItem from="1484507198077" duration="124000" />
+      <workItem from="1484508251611" duration="4714000" />
+      <workItem from="1485197214255" duration="8199000" />
+      <workItem from="1485266315814" duration="5890000" />
+      <workItem from="1485370404382" duration="7836000" />
+      <workItem from="1485601148623" duration="18079000" />
+      <workItem from="1485672900796" duration="571000" />
+      <workItem from="1485676985257" duration="3375000" />
+      <workItem from="1485710227494" duration="9617000" />
+      <workItem from="1485805976714" duration="591000" />
+      <workItem from="1486187089067" duration="1783000" />
+      <workItem from="1486192519480" duration="29000" />
+      <workItem from="1486238244738" duration="5641000" />
+      <workItem from="1486282512218" duration="21761000" />
+      <workItem from="1486839873864" duration="27892000" />
+      <workItem from="1487179109581" duration="5328000" />
+      <workItem from="1487498111050" duration="3622000" />
+      <workItem from="1487875850113" duration="9348000" />
+      <workItem from="1487956840833" duration="19158000" />
+      <workItem from="1488047309121" duration="11157000" />
+      <workItem from="1488538668235" duration="7287000" />
+      <workItem from="1488784226159" duration="13820000" />
+      <workItem from="1488964559136" duration="5687000" />
+      <workItem from="1489047401842" duration="8263000" />
+      <workItem from="1489123709264" duration="10703000" />
+      <workItem from="1489138564591" duration="12052000" />
+      <workItem from="1489168848864" duration="2821000" />
+      <workItem from="1489172913482" duration="973000" />
+      <workItem from="1489254098727" duration="7939000" />
+      <workItem from="1489299461501" duration="9695000" />
+      <workItem from="1489395028585" duration="23000" />
+      <workItem from="1489476136915" duration="14861000" />
+      <workItem from="1489574416576" duration="8844000" />
+      <workItem from="1489642042874" duration="14370000" />
+      <workItem from="1489729192265" duration="11950000" />
+      <workItem from="1489992461756" duration="6804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="331139000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.175" sideWeight="0.97219133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0010559662" sideWeight="0.5072917" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32312566" sideWeight="0.49270833" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.026399156" sideWeight="0.5029542" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.175" sideWeight="0.97219133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32334384" sideWeight="0.4970458" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="45" selection-start-line="150" selection-start-column="34" selection-end-line="150" selection-end-column="45" />
+          <folding>
+            <marker date="1489582262719" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="99" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9146">
+          <caret line="538" column="101" selection-start-line="538" selection-start-column="101" selection-end-line="538" selection-end-column="101" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/pupils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="45" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="45" />
+          <folding>
+            <marker date="1489577179675" expanded="true" signature="101:139" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/guestQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1489649854744" expanded="true" signature="170:235" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="730:820" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="1182:1303" ph="INSERT INTO `users`... " />
+            <marker date="1489649854744" expanded="true" signature="1339:1504" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_groups" />
+            <marker date="1489649854744" expanded="true" signature="1594:1764" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_disciplines" />
+            <marker date="1489649854744" expanded="true" signature="1854:2066" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupils" />
+            <marker date="1489649854744" expanded="true" signature="2155:2406" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupil_info" />
+            <marker date="1489649854744" expanded="true" signature="2504:2697" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_materials" />
+            <marker date="1489649854744" expanded="true" signature="2959:3321" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_events" />
+            <marker date="1489649854744" expanded="true" signature="3405:3727" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_marks" />
+            <marker date="1489649854744" expanded="true" signature="4094:4209" ph="UPDATE `user... " />
+            <marker date="1489649854744" expanded="true" signature="4582:4646" ph="SELECT `id` users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="45" selection-start-line="150" selection-start-column="34" selection-end-line="150" selection-end-column="45" />
+          <folding>
+            <marker date="1489582262719" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="48" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="48" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/css/pupils.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4182">
+          <caret line="246" column="37" selection-start-line="246" selection-start-column="37" selection-end-line="246" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="51" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="51" />
+          <folding>
+            <marker date="1489582262719" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/css/pupils.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4182">
+          <caret line="246" column="37" selection-start-line="246" selection-start-column="37" selection-end-line="246" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/guestQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding>
+            <marker date="1489649854744" expanded="true" signature="170:235" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="730:820" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="1182:1303" ph="INSERT INTO `users`... " />
+            <marker date="1489649854744" expanded="true" signature="1339:1504" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_groups" />
+            <marker date="1489649854744" expanded="true" signature="1594:1764" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_disciplines" />
+            <marker date="1489649854744" expanded="true" signature="1854:2066" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupils" />
+            <marker date="1489649854744" expanded="true" signature="2155:2406" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupil_info" />
+            <marker date="1489649854744" expanded="true" signature="2504:2697" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_materials" />
+            <marker date="1489649854744" expanded="true" signature="2959:3321" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_events" />
+            <marker date="1489649854744" expanded="true" signature="3405:3727" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_marks" />
+            <marker date="1489649854744" expanded="true" signature="4094:4209" ph="UPDATE `user... " />
+            <marker date="1489649854744" expanded="true" signature="4582:4646" ph="SELECT `id` users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="36" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/guestQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding>
+            <marker date="1489649854744" expanded="true" signature="170:235" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="730:820" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="1182:1303" ph="INSERT INTO `users`... " />
+            <marker date="1489649854744" expanded="true" signature="1339:1504" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_groups" />
+            <marker date="1489649854744" expanded="true" signature="1594:1764" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_disciplines" />
+            <marker date="1489649854744" expanded="true" signature="1854:2066" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupils" />
+            <marker date="1489649854744" expanded="true" signature="2155:2406" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupil_info" />
+            <marker date="1489649854744" expanded="true" signature="2504:2697" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_materials" />
+            <marker date="1489649854744" expanded="true" signature="2959:3321" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_events" />
+            <marker date="1489649854744" expanded="true" signature="3405:3727" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_marks" />
+            <marker date="1489649854744" expanded="true" signature="4094:4209" ph="UPDATE `user... " />
+            <marker date="1489649854744" expanded="true" signature="4582:4646" ph="SELECT `id` users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="37" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="37" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11373">
+          <caret line="669" column="28" selection-start-line="669" selection-start-column="28" selection-end-line="669" selection-end-column="28" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="24" selection-start-line="188" selection-start-column="24" selection-end-line="188" selection-end-column="24" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/css/main_window.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/downloadfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/fileLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/jeditable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.572/events.php" />
+    <entry file="file://$PROJECT_DIR$/www/resource/confirm_alert/jquery-confirm.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18139">
+          <caret line="1067" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="1067" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/disciplines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.855/click_script.js" />
+    <entry file="file://$PROJECT_DIR$/www/pages/user/pupils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
+          <folding>
+            <marker date="1489577179675" expanded="true" signature="101:139" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/recover.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/confirm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/confirm_alert/jquery-confirm.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13668">
+          <caret line="804" column="17" selection-start-line="804" selection-start-column="17" selection-end-line="804" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.113/jeditable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <marker date="1489582262719" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.712/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3045">
+          <caret line="0" column="83" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="37" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/guest/guestQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="36" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="36" />
+          <folding>
+            <marker date="1489649854744" expanded="true" signature="170:235" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="730:820" ph="SELECT `id` users" />
+            <marker date="1489649854744" expanded="true" signature="1182:1303" ph="INSERT INTO `users`... " />
+            <marker date="1489649854744" expanded="true" signature="1339:1504" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_groups" />
+            <marker date="1489649854744" expanded="true" signature="1594:1764" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_disciplines" />
+            <marker date="1489649854744" expanded="true" signature="1854:2066" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupils" />
+            <marker date="1489649854744" expanded="true" signature="2155:2406" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_pupil_info" />
+            <marker date="1489649854744" expanded="true" signature="2504:2697" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_materials" />
+            <marker date="1489649854744" expanded="true" signature="2959:3321" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_events" />
+            <marker date="1489649854744" expanded="true" signature="3405:3727" ph="CREATE TABLE... ${$_SESSION['confirm']['email']}_marks" />
+            <marker date="1489649854744" expanded="true" signature="4094:4209" ph="UPDATE `user... " />
+            <marker date="1489649854744" expanded="true" signature="4582:4646" ph="SELECT `id` users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/css/pupils.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="38" selection-start-line="181" selection-start-column="38" selection-end-line="181" selection-end-column="56" />
+          <folding>
+            <marker date="1489653763987" expanded="true" signature="464:502" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/user/userQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="271" column="243" selection-start-line="271" selection-start-column="243" selection-end-line="271" selection-end-column="243" />
+          <folding>
+            <marker date="1490003548250" expanded="true" signature="77:148" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="221:288" ph="INSERT INTO `${getTable(&quot;groups&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="358:429" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="563:623" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="774:848" ph="SELECT `id` ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1176:1246" ph="SELECT * FRO... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1453:1491" ph="SELECT * FRO... ${getTable(&quot;groups&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="1685:1775" ph="INSERT INTO `${getTable(&quot;pupils&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="1836:1907" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2257:2317" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="2470:2544" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="2582:2685" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="2741:2815" ph="SELECT * FRO... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3118:3207" ph="SELECT `pupi... ${getTable(&quot;pupil_info&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="3489:3589" ph="INSERT INTO `${getTable(&quot;pupil_info&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="3771:3850" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4181:4246" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="4399:4475" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4550:4626" ph="INSERT INTO `${getTable(&quot;disciplines&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="4689:4765" ph="SELECT `id` ${getTable(&quot;disciplines&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="4905:4983" ph="SELECT * FRO... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="5213:5276" ph="DELETE FROM " />
+            <marker date="1490003548250" expanded="true" signature="5425:5532" ph="SELECT `path... ${getTable(&quot;materials&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6414:6599" ph="INSERT INTO `${getTable(&quot;events&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="6728:6772" ph="SELECT MAX(i... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="6868:6949" ph="SELECT `id` ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="7058:7146" ph="INSERT INTO `${getTable(&quot;marks&quot;)}`... " />
+            <marker date="1490003548250" expanded="true" signature="7350:7388" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10030:10080" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10394:10463" ph="SELECT * FRO... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="10555:10621" ph="SELECT `name... ${getTable(&quot;pupils&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11898" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="11704:11958" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12054:12297" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="12384:12727" ph="SELECT e.`da... alexsafrone@gmail.com_marks" />
+            <marker date="1490003548250" expanded="true" signature="12860:13113" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="13217:13459" ph="SELECT e.`da... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14039" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14032:14367" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="14473:14795" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15218:15227" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15602" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15327:15662" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:15775" ph="SELECT * FRO... ${getTable(&quot;events&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="15768:16091" ph="SELECT p.`id... ${getTable(&quot;marks&quot;)}" />
+            <marker date="1490003548250" expanded="true" signature="16759:16819" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resource/js/click_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="871" column="50" selection-start-line="871" selection-start-column="50" selection-end-line="871" selection-end-column="50" />
+          <folding>
+            <marker date="1490009571687" expanded="true" signature="15997:16018" ph="..." />
+            <marker date="1490009571687" expanded="true" signature="48787:48808" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

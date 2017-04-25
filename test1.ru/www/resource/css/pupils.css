@@ -1,0 +1,289 @@
+﻿
+#content_card_element{
+	width: 50%;
+	height:100%;
+	margin:10px;
+	text-align:justify;
+}
+
+
+.rounded {
+counter-reset: li; 
+list-style: none; 
+font: 14px "Trebuchet MS", "Lucida Sans";
+padding: 0;
+text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+.rounded a {
+position: relative;
+display: block;
+padding: .4em .4em .4em 2em;
+margin: .5em 0;
+background: #DAD2CA;
+color: #444;
+text-decoration: none;
+border-radius: .3em;
+transition: .3s ease-out;
+}
+.rounded a:hover {
+background: #E9E4E0;
+}
+.rounded a:hover:before {
+transform: rotate(360deg);
+}
+.rounded a:before {
+content: counter(li);
+counter-increment: li;
+position: absolute;
+left: -1.3em;
+top: 50%;
+margin-top: -1.3em;
+background: #8FD4C1;
+height: 2em;
+width: 2em;
+line-height: 2em;
+border: .3em solid white;
+text-align: center;
+font-weight: bold;
+border-radius: 2em;
+transition: all .3s ease-out;
+}
+
+#pupil_ancet_name{
+	 text-align: left;
+	font-size:15px;
+	margin-bottom:3px;
+}
+
+#pupil_info_text, #event_edit_info{
+	text-align:left;
+	font-size:15px;
+	margin-bottom:3px;
+	width:100%;
+	height:100px;
+}
+
+#text_report{
+	text-align:left;
+	font-size:15px;
+	margin-bottom:3px;
+	width:100%;
+	height:350px;
+}
+
+.select_text{
+	margin-right:5px;
+}
+
+.action_button,.action_button:active,.action_button:focus {
+	background: #8FD4C1;
+	border:none;
+	outline: none;
+	font-size:15px;
+	font: 14px "Trebuchet MS", "Lucida Sans";
+	color: #444;
+	padding:5px;
+	margin-top:4px;
+	margin-bottom:4px;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.action_button:hover {
+	background: #E9E4E0;
+	border:none;
+	outline: none;
+	font-size:15px;
+	font: 14px "Trebuchet MS", "Lucida Sans";
+	color: #444;
+	padding:5px;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+
+#header_loading{
+	height:40px;
+	float:right;
+	margin-right:20px;
+	margin-top:12px;
+}
+
+#loadPhoto{
+	margin-bottom: 2px;
+}
+
+li#lilili{
+	list-style-image: url("/resource/images/charts.png");
+	margin-left: 60px;
+	display:inline-block;
+}
+
+
+.material_button{
+	background:#fff;
+	width:100%;
+	color:#37474F;
+	border:none;
+	margin-bottom: 3px;
+}
+
+/*������ ����, ��� ��� ������*/
+.material_button:hover{
+	background:#DCDCDC;
+	content: "edgfreg";
+}
+
+/*����� ������*/
+.material_button,.material_button:active,.material_button:focus {
+	outline: none;
+	text-align: left;
+	font-family: Roboto, 'Comic Sans MS', cursive;
+	font-size:15px;
+	font-weight: bold;
+
+}
+
+#material_button_image{
+	height: 35px;
+}
+
+#loadmaterials{
+	padding:5px;
+	margin-left: 15%;
+}
+
+
+
+#event_info_text{
+	text-align:left;
+	font-size:15px;
+	margin-top:3px;
+	width:100%;
+	height:100px;
+}
+
+.event_button{
+	background:#f0f0f0;
+	width:100%;
+	color:#37474F;
+	border:none;
+	margin-bottom: 3px;
+}
+
+/*������ ����, ��� ��� ������*/
+.event_button:hover{
+	background:#DCDCDC;
+	content: "edgfreg";
+}
+
+/*����� ������*/
+.event_button,.event_button:active,.event_button:focus {
+	outline: none;
+	text-align: left;
+	font-family: Roboto, 'Comic Sans MS', cursive;
+	font-size:15px;
+	font-weight: bold;
+}
+
+.action_button_events,.action_button_events:active,.action_button_events:focus {
+	background: #f0f0f0;
+	border:none;
+	outline: none;
+	font-size:15px;
+	font: 14px "Trebuchet MS", "Lucida Sans";
+	color: #444;
+	font-weight: bold;
+	width: 100%;
+	height:30px;
+}
+
+.action_button_events:hover {
+	background: #E9E4E0;
+	border:none;
+	outline: none;
+	font-size:15px;
+	font: 14px "Trebuchet MS", "Lucida Sans";
+	color: #444;
+	font-weight: bold;
+}
+
+
+/*оформление таблицы далее*/
+table {
+	overflow:hidden;
+	border:1px solid #d3d3d3;
+	background:#fefefe;
+	width:70%;
+	margin:5% auto 0;
+	-moz-border-radius:5px; /* FF1+ */
+	-webkit-border-radius:5px; /* Saf3-4 */
+	border-radius:5px;
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+th, td {
+	padding:18px 28px 18px;
+	text-align:center;
+}
+
+th {
+	padding-top:22px;
+	text-shadow: 1px 1px 1px #fff;
+	background:#e8eaeb;
+}
+
+td {
+	border-top:1px solid #e0e0e0;
+	border-right:1px solid #e0e0e0;
+}
+
+tr.odd-row td {
+	background:#f6f6f6;
+}
+
+td.first, th.first {
+	text-align:left
+}
+
+td.last {
+	border-right:none;
+}
+
+td {
+	background: -moz-linear-gradient(100% 25% 90deg, #fefefe, #f9f9f9);
+	background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f9f9f9), to(#fefefe));
+}
+
+tr.odd-row td {
+	background: -moz-linear-gradient(100% 25% 90deg, #f6f6f6, #f1f1f1);
+	background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f1f1f1), to(#f6f6f6));
+}
+
+th {
+	background: -moz-linear-gradient(100% 20% 90deg, #e8eaeb, #ededed);
+	background: -webkit-gradient(linear, 0% 0%, 0% 20%, from(#ededed), to(#e8eaeb));
+}
+
+tr:first-child th.first {
+	-moz-border-radius-topleft:5px;
+	-webkit-border-top-left-radius:5px; /* Saf3-4 */
+}
+
+tr:first-child th.last {
+	-moz-border-radius-topright:5px;
+	-webkit-border-top-right-radius:5px; /* Saf3-4 */
+}
+
+tr:last-child td.first {
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-bottom-left-radius:5px; /* Saf3-4 */
+}
+
+tr:last-child td.last {
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px; /* Saf3-4 */
+}
+
+

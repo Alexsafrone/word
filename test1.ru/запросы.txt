@@ -1,0 +1,24 @@
+SELECT  e.`date`, m.`absent` FROM `alexsafrone@gmail.com_marks` AS m
+INNER JOIN `alexsafrone@gmail.com_events` AS e ON m.`event_id`=e.`id` 
+WHERE e.`group_id`= 1 AND (e.`event_type` = 1 OR e.`event_type`=2) AND e.`discipline_id` = 1
+
+
+
+
+
+SELECT  e.`id`,p.`id`, p.`name`, e.`date`, m.`absent` FROM `alexsafrone@gmail.com_marks` AS m
+INNER JOIN `alexsafrone@gmail.com_events` AS e ON m.`event_id`=e.`id` 
+INNER JOIN `alex@hua.lex_pupils` AS p ON e.`group_id`=p.`group_id` 
+WHERE e.`group_id`= 1 AND (e.`event_type` = 1 OR e.`event_type`=2) AND e.`discipline_id` = 1
+LIMIT 0,50
+
+
+
+
+SELECT m.`id`, p.`name`, e.`group_id`, e.`date`, m.`absent` FROM `alexsafrone@gmail.com_marks` AS m
+INNER JOIN `alexsafrone@gmail.com_events` AS e ON m.`event_id`=e.`id` 
+INNER JOIN `alex@hua.lex_pupils` AS p ON e.`group_id`=p.`group_id` 
+WHERE e.`group_id`= 1 AND (e.`event_type` = 1 OR e.`event_type`=2) AND e.`discipline_id` = 1
+
+
+
